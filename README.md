@@ -2,7 +2,8 @@
 
 - Go play the real Wordle [here](https://www.powerlanguage.co.uk/wordle/)
 - Read the story behind it [here](https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html)
-- Try a demo of this clone project [here](https://61dc4dbf9f2b9d0007925c02--thirsty-hoover-08af60.netlify.app/)
+- ~~Try a demo of this clone project [here]()~~
+- **There is no demo running now.**
 
 _Inspiration:_
 This game is an open source clone of the immensely popular online word guessing game Wordle. Like many others all over the world, I saw the signature pattern of green, yellow, and white squares popping up all over social media and the web and had to check it out. After a few days of play, I decided it would be great for my learning to try to rebuild Wordle in React!
@@ -27,6 +28,3 @@ $ cd wordle
 $ npm init
 $ npm run start
 ```
-
-### I'm looking for a junior developer role
-Please feel free to contact me on [linkedin](https://www.linkedin.com/in/hannahpark1000/) and learn more about me [here](https://www.hannahmariepark.com/)
