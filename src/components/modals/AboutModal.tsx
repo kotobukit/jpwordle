@@ -69,6 +69,16 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
                         play the original here
                       </a>
                     </p>
+                    <p className="text-sm text-gray-500">
+                    Word source:  {" "}
+                      <a
+                        href="http://www17408ui.sakura.ne.jp/tatsum/database.html"
+                        className="underline font-bold"
+                      >
+                        松下達彦(2011)「日本語を読むための語彙データベース（VDRJ） Ver. 1.0 （教師用）」
+                      </a>{" "}-
+                      Download Date 2022/01/14
+                    </p>
                   </div>
                 </div>
               </div>
